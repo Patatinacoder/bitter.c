@@ -1,0 +1,50 @@
+.navbar{
+    @extend .navlink;
+    mix-blend-mode: multiply;
+
+    
+    
+ 
+ }
+
+ .navbar img{
+     filter:brightness(1.1);
+    width: 100px;
+
+ }
+ 
+
+ 
+ .navlink{
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+     font-style: italic;
+     font-size: 25px;
+     text-decoration: none;
+     color: rgba(8, 0, 14, 0.733);
+     
+
+
+     
+ }
+
+
+ .form{
+    margin-left: 10%;
+    width: 170px;
+    border-radius: 20px;
+   
+
+ }
+
+ 
+
+ .carrito{
+
+border-radius: 20px;
+width: 200px;
+
+
+}
+
+ 
